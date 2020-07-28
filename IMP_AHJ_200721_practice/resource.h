@@ -164,13 +164,18 @@
 #define ID_MIRROR_VER                   32840
 #define ID_CH9_32841                    32841
 #define ID_ROTATION                     32842
+#define ID_ADD_ADD                      32843
+#define ID_ADD_SUB                      32844
+#define ID_ADD_MUL                      32845
+#define ID_ADD_DIV                      32846
+#define ID_IMAGEPROCCESSIN_ADD          32847
 
 // Next default values for new objects
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        328
-#define _APS_NEXT_COMMAND_VALUE         32843
+#define _APS_NEXT_COMMAND_VALUE         32848
 #define _APS_NEXT_CONTROL_VALUE         1002
 #define _APS_NEXT_SYMED_VALUE           310
 #endif
